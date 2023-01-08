@@ -25,12 +25,12 @@ body {
 }
 
 .image {
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .image-part2 {
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 #image-p2 {
   width: 680px;
@@ -53,11 +53,11 @@ body {
   }
   #bfly {
     height: 300px;
-    width: 300px;
+    width: 280px;
   }
   #logo-a {
     height: 290px;
-    width: 300px;
+    width: 260px;
   }
   body {
     margin: 5px 5px;
